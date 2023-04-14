@@ -15,9 +15,9 @@
 <p align="left">
 <a href="https://dev.to/kristian_wijayanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kristian_wijayanto" height="30" width="40" /></a>
 <a href="https://twitter.com/kristian_tz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kristian_tz" height="30" width="40" /></a>
-<a href="https://fb.com/kristian.wijayanto.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kristian.wijayanto.5" height="30" width="40" /></a>
-<a href="https://instagram.com/kristian_wijayanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kristian_wijayanto" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@kristian_wijayanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kristian_wijayanto" height="30" width="40" /></a>
+<a href="https://www.facebook.com/christian.wijayanto.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kristian.wijayanto.5" height="30" width="40" /></a>
+<a href="https://instagram.com/kristian_wijayanto_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kristian_wijayanto" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@kristian_wijayanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kristian_wijayanto" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
