@@ -9,7 +9,7 @@
 
 - 👩‍💻 my situs profile [https://sites.google.com/view/kristian-situs](https://sites.google.com/view/kristian-situs)
 
-- 📫 Email saya : **kristianwijayanto92@gmail.com**
+- 📫 Email saya : **kristian@kristianwijayanto.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
