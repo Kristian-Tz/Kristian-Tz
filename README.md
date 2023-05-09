@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kristian_tz" target="blank"><img src="https://img.shields.io/twitter/follow/kristian_tz?logo=twitter&style=for-the-badge" alt="kristian_tz" /></a> </p>
 
-- 👩‍💻 my situs profile [https://kristianwijayanto.com](https://)
+- 👩‍💻 my situs profile [website saya](https://kristianwijayanto.com)
 
 - 📫 Email saya : **kristian@kristianwijayanto.com**
 
